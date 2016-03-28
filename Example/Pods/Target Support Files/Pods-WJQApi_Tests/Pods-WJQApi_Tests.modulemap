@@ -1,0 +1,6 @@
+framework module Pods_WJQApi_Tests {
+  umbrella header "Pods-WJQApi_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

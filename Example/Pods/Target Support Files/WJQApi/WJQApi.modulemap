@@ -1,0 +1,6 @@
+framework module WJQApi {
+  umbrella header "WJQApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
